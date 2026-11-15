@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 all
+Codename: stable
+Components: main
+Date: Sun, 15 Nov 2026 06:00:48 +0000
+Label: MANITO
+Origin: MANITO
+Suite: stable
+MD5Sum:
+ a3716f0eed4445b95605cf8f21c8952b              140 Release
+ c83c37a7ba7b56f883ff40f28de25156              918 main/binary-all/Packages
+ d1d7f378c6d94cdece1232fa75366da2              741 main/binary-all/Packages.gz
+ c83c37a7ba7b56f883ff40f28de25156              918 main/binary-amd64/Packages
+ d1d7f378c6d94cdece1232fa75366da2              741 main/binary-amd64/Packages.gz
+SHA1:
+ fb9e984f59e8d623494b81be10696e00296e3e32              140 Release
+ a88ad5602861da5c8662fb96a63d6b11c5b69133              918 main/binary-all/Packages
+ be6e035ad6c276b4ad52a3227a5922ef8dd76a7a              741 main/binary-all/Packages.gz
+ a88ad5602861da5c8662fb96a63d6b11c5b69133              918 main/binary-amd64/Packages
+ be6e035ad6c276b4ad52a3227a5922ef8dd76a7a              741 main/binary-amd64/Packages.gz
+SHA256:
+ 1a50285d76b8d145e1bea17039b5aa5ab9830c75e8fbdcb8a7c64c6a7af125fb              140 Release
+ 3434b4aba0d112f7a82e56f2244b2e861107b02995610efbaa28163904f82734              918 main/binary-all/Packages
+ fb1108b374d08cb361c3a397452d5e25d08a7662b90e7f210d6032357ee90ace              741 main/binary-all/Packages.gz
+ 3434b4aba0d112f7a82e56f2244b2e861107b02995610efbaa28163904f82734              918 main/binary-amd64/Packages
+ fb1108b374d08cb361c3a397452d5e25d08a7662b90e7f210d6032357ee90ace              741 main/binary-amd64/Packages.gz
+SHA512:
+ 57aefbc7fda47c3a4db41d26006822a939df25657ec9cf8cf5f2a97fe43b1578d85d1dc07a1b61119d4151323f9d03b8274223b3b9b26acab24885db5c33c589              140 Release
+ efbcfd78b51bb280d11c07396c6f609b10a4c9ae0e6364f030b75ab59cdbb53cdc183d1e3c264248612b25eeec946a82089862e20d30d5021ae3d9763adc8b89              918 main/binary-all/Packages
+ 20c7b941100852ed23015f8da10ccb59da666b0aec807054431b0860f816e78ccd19f416381ec1738acbfaf85ba14f45ebc28d93348bf76853328b40886587eb              741 main/binary-all/Packages.gz
+ efbcfd78b51bb280d11c07396c6f609b10a4c9ae0e6364f030b75ab59cdbb53cdc183d1e3c264248612b25eeec946a82089862e20d30d5021ae3d9763adc8b89              918 main/binary-amd64/Packages
+ 20c7b941100852ed23015f8da10ccb59da666b0aec807054431b0860f816e78ccd19f416381ec1738acbfaf85ba14f45ebc28d93348bf76853328b40886587eb              741 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQS+AOjCm3SEMS/EA3UN0c9TPAi+jwUCavlKkAAKCRAN0c9TPAi+
+j6izAQCf2rxQg5RtjN58qYdasv1vFGr4ohw/I/k1WCFTWMA8vQEArura+PhEgxXm
+tNFb/X39PC0zEUG18i97ev9PXrwkTgk=
+=eGu7
+-----END PGP SIGNATURE-----
