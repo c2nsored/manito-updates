@@ -1,19 +1,80 @@
 Package: manito-core
 Architecture: all
-Version: 0.1.5
+Version: 0.1.6
 Priority: optional
 Section: misc
 Maintainer: MANITO <manito@localhost>
-Installed-Size: 936
-Depends: python3 (>= 3.11), plasma-workspace, libnotify-bin, qml6-module-qtquick-shapes, bubblewrap
-Filename: pool/main/manito-core_0.1.5_all.deb
-Size: 251128
-MD5sum: 3cb24a9542afeab36a424ffb34c7e386
-SHA1: 58f93206af11de3a908a3829b9e25045e0a71b10
-SHA256: a32042d8cf583fbe34879bd394985fcbfa5315dd3c9524d6f4ceb2c3c46de052
-SHA512: d5d4cf1cbd6806ba7033526574e0363790ab4c59ad256b2c6393384b6ac42a837e201e494f4c4e98e28ebe15fe37b284fe09a330a8b2cad300f111de6b5c3b48
+Installed-Size: 1084
+Depends: python3 (>= 3.11), plasma-workspace, libnotify-bin, qml6-module-qtquick-shapes, bubblewrap, python3-pyqt6, python3-gi, gir1.2-packagekitglib-1.0, packagekit, wine, wine64, winetricks, cabextract
+Filename: pool/main/manito-core_0.1.6_all.deb
+Size: 275172
+MD5sum: d7c1985d6d048cd45becc27264a7d512
+SHA1: b49f3bb19b71dfe3c888eafba81dafb2e356f732
+SHA256: fe0d7c2f12c13e6fd5ec083c896f5b3e25c4b6e56e240f5f5ca8507c19dcb343
+SHA512: 925c1c7a3bc1bc8739c4dc7c5749195e9e13d93131581cb2e5920649ad71b87408bdbd0d63145925fc03ce438229045a5683e693a242a7ce15464cce41f860bc
 Description: MANITO core: AI service, desktop widgets, design module
  MANITO의 자주 바뀌는 부품 묶음.
  AI 서비스(aiosd), 바탕화면·위쪽 막대 위젯, 디자인 시스템 QML 모듈,
- 처음 로그인 때 쓰는 화면 배치, 마니또 알림, 로그인 시 업데이트 마무리 스크립트.
+ 처음 로그인 때 쓰는 화면 배치, 마니또 알림, 로그인 시 업데이트 마무리 스크립트,
+ 프로그램 관리 창(설치된 프로그램 보기·지우기·업데이트).
+
+Package: manito-core
+Architecture: all
+Version: 0.1.7
+Priority: optional
+Section: misc
+Maintainer: MANITO <manito@localhost>
+Installed-Size: 1084
+Depends: python3 (>= 3.11), plasma-workspace, libnotify-bin, qml6-module-qtquick-shapes, bubblewrap, python3-pyqt6, python3-gi, gir1.2-packagekitglib-1.0, packagekit, wine, wine64, winetricks, cabextract
+Filename: pool/main/manito-core_0.1.7_all.deb
+Size: 274504
+MD5sum: 49c129a6cfc75e6c307fd636143de09a
+SHA1: 9ccccf027aa5c8667f939a671f07a2ebf449112e
+SHA256: aa3a8d1b2a868236f1ae05fec6b6aac10722f778f500e12f87bdba53e44e3076
+SHA512: e10a75cd060c944822b30c08b82efdb2ae50379473dadf8202134f082d9481ab0ccef827c3ef3e61d2b7dbb547c99dbbffe9cb283b2b7e1ba77a76d5fdd6bb2c
+Description: MANITO core: AI service, desktop widgets, design module
+ MANITO의 자주 바뀌는 부품 묶음.
+ AI 서비스(aiosd), 바탕화면·위쪽 막대 위젯, 디자인 시스템 QML 모듈,
+ 처음 로그인 때 쓰는 화면 배치, 마니또 알림, 로그인 시 업데이트 마무리 스크립트,
+ 프로그램 관리 창(설치된 프로그램 보기·지우기·업데이트).
+
+Package: manito-core
+Architecture: all
+Version: 0.1.8
+Priority: optional
+Section: misc
+Maintainer: MANITO <manito@localhost>
+Installed-Size: 1092
+Depends: python3 (>= 3.11), plasma-workspace, libnotify-bin, qml6-module-qtquick-shapes, bubblewrap, python3-pyqt6, python3-gi, gir1.2-packagekitglib-1.0, packagekit, wine, wine64, winetricks, cabextract
+Filename: pool/main/manito-core_0.1.8_all.deb
+Size: 276404
+MD5sum: c634042a790b9e74e0ea36734203880b
+SHA1: 54e3582647d58946b5fd8201490763ad07f5c95a
+SHA256: bb06818cd803a0e3e3ddb64d71dc32a78718d4e4f7e4ce434d816cc332b7c8cd
+SHA512: b6f6a6fb1e0d939321b7ebd496831b3837f24d7e6eacbda6c3f3a627e7a4841b1f7bab1d6e024289c6c486942bf450a944ad502f60e999404026ed5bad5bfdf5
+Description: MANITO core: AI service, desktop widgets, design module
+ MANITO의 자주 바뀌는 부품 묶음.
+ AI 서비스(aiosd), 바탕화면·위쪽 막대 위젯, 디자인 시스템 QML 모듈,
+ 처음 로그인 때 쓰는 화면 배치, 마니또 알림, 로그인 시 업데이트 마무리 스크립트,
+ 프로그램 관리 창(설치된 프로그램 보기·지우기·업데이트).
+
+Package: manito-core
+Architecture: all
+Version: 0.1.9
+Priority: optional
+Section: misc
+Maintainer: MANITO <manito@localhost>
+Installed-Size: 1096
+Depends: python3 (>= 3.11), plasma-workspace, libnotify-bin, qml6-module-qtquick-shapes, bubblewrap, python3-pyqt6, python3-gi, gir1.2-packagekitglib-1.0, packagekit, wine, wine64, winetricks, cabextract
+Filename: pool/main/manito-core_0.1.9_all.deb
+Size: 275496
+MD5sum: 4a7f6177cbdf2f3deaac364fbf026c57
+SHA1: 8d96a20bf8553f02482b5a475357da24160927b6
+SHA256: fee24cb3fd3f0734ca789e935327a3b6605fae75de53583460877a43d553f0e8
+SHA512: 17f96816c2a8721027a5c01f380c1044e4995f48815d8ce1be4162b3a83c8baab54eab4d8f405b3f998f18106fc23fc381ba60f3ef13e0bf8aae8b7256d0d4d7
+Description: MANITO core: AI service, desktop widgets, design module
+ MANITO의 자주 바뀌는 부품 묶음.
+ AI 서비스(aiosd), 바탕화면·위쪽 막대 위젯, 디자인 시스템 QML 모듈,
+ 처음 로그인 때 쓰는 화면 배치, 마니또 알림, 로그인 시 업데이트 마무리 스크립트,
+ 프로그램 관리 창(설치된 프로그램 보기·지우기·업데이트).
 
